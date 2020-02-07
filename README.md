@@ -1,2 +1,2 @@
 # my-class
-Belajar membuat komik anak
+Belajar membuat GiT
